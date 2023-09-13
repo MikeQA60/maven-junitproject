@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- this is a comment section -->
+<book catergory = "fiction" class = "biography">
+    <!-- this is a comment section -->
+<author> nationality = "American" > Walter Issacson</author>
+    <!-- this is a comment section -->
+    <title>Leonardo Davinci</title>
+    <!-- this is a comment section -->
+    <year>2014</year>
+    <!-- this is a comment section -->
+    <color>color = "blue">Hello WeDevX </color>
+</book>
